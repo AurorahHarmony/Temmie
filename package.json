@@ -1,0 +1,22 @@
+{
+  "name": "temmie",
+  "version": "1.0.0",
+  "description": "A free and open source terminal that's fun to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurorahHarmony/Temmie.git"
+  },
+  "keywords": [
+    "terminal",
+    "ssh"
+  ],
+  "author": "Aurorah Harmony",
+  "bugs": {
+    "url": "https://github.com/AurorahHarmony/Temmie/issues"
+  },
+  "homepage": "https://github.com/AurorahHarmony/Temmie#readme"
+}
