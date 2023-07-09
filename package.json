@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/AurorahHarmony/Temmie/issues"
   },
-  "homepage": "https://github.com/AurorahHarmony/Temmie#readme"
+  "homepage": "https://github.com/AurorahHarmony/Temmie#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
